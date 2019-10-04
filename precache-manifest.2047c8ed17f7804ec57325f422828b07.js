@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "344de6c498f057f0fa9a4552058a48a5",
+    "revision": "ca413a5e98f0fb3c4eb815a2843cf846",
     "url": "/parikrama/index.html"
   },
   {
-    "revision": "6b095e2e48657f31dbda",
+    "revision": "78b8f06ef897cf810087",
     "url": "/parikrama/static/css/main.27b2c460.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/parikrama/static/js/2.92dc0c75.chunk.js"
   },
   {
-    "revision": "6b095e2e48657f31dbda",
-    "url": "/parikrama/static/js/main.fd53b49d.chunk.js"
+    "revision": "78b8f06ef897cf810087",
+    "url": "/parikrama/static/js/main.55e40f9b.chunk.js"
   },
   {
     "revision": "0b62f6bdf53df5f5db38",
