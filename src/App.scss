@@ -1,0 +1,31 @@
+.App__wrapper {
+  padding-top: 20vh;
+  width: 100vh;
+
+  .App__logo {
+    width: 150px;
+    height: 150px;
+    display: block;
+    margin: 0 auto;
+  }
+
+  .App__description {
+    display: block;
+    color: #ffffff;
+    text-align: center;
+  }
+
+  .App__button {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    text-decoration: none;
+    width: 120px;
+    margin-top: 30px;
+    background-color: #f9aa33;
+    color: #232f34;
+    font-size: 20px;
+    font-weight: 900;
+    padding: 20px 50px;
+  }
+}
