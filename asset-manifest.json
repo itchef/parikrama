@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/parikrama/static/css/main.27b2c460.chunk.css",
+    "main.css": "/parikrama/static/css/main.329795ca.chunk.css",
     "main.js": "/parikrama/static/js/main.55e40f9b.chunk.js",
     "main.js.map": "/parikrama/static/js/main.55e40f9b.chunk.js.map",
     "runtime-main.js": "/parikrama/static/js/runtime-main.c4444847.js",
@@ -8,14 +8,14 @@
     "static/js/2.92dc0c75.chunk.js": "/parikrama/static/js/2.92dc0c75.chunk.js",
     "static/js/2.92dc0c75.chunk.js.map": "/parikrama/static/js/2.92dc0c75.chunk.js.map",
     "index.html": "/parikrama/index.html",
-    "precache-manifest.2047c8ed17f7804ec57325f422828b07.js": "/parikrama/precache-manifest.2047c8ed17f7804ec57325f422828b07.js",
+    "precache-manifest.cf642a07c49215a542d62b4efe995384.js": "/parikrama/precache-manifest.cf642a07c49215a542d62b4efe995384.js",
     "service-worker.js": "/parikrama/service-worker.js",
-    "static/css/main.27b2c460.chunk.css.map": "/parikrama/static/css/main.27b2c460.chunk.css.map"
+    "static/css/main.329795ca.chunk.css.map": "/parikrama/static/css/main.329795ca.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.c4444847.js",
     "static/js/2.92dc0c75.chunk.js",
-    "static/css/main.27b2c460.chunk.css",
+    "static/css/main.329795ca.chunk.css",
     "static/js/main.55e40f9b.chunk.js"
   ]
 }
