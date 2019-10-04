@@ -11,7 +11,7 @@ function App() {
       </p>
       <a
         className="App__button"
-        href="https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40phoenixtw/parikrama-mobile-9388b2c564774f8785a23f8d41b084f4-signed.apk"
+        href="https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40phoenixtw/parikrama-mobile-5cefe082dd3b4d79a1dc5e6365835f2c-signed.apk"
       >
         Download
       </a>
